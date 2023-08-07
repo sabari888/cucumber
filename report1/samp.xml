@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="115.05578">
+    <testcase classname="To search T-Shirt prodect in  MYNTRA web application" name="To search T-Shirt prodect in  MYNTRA web application" time="115.05578">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When Launch valid MYNTRA website url........................................passed
+And sertch T-Shirt..........................................................passed
+And window handling.........................................................passed
+And select the M............................................................passed
+And Add To Bag..............................................................passed
+And click the bag icon......................................................passed
+Then Clous browser..........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

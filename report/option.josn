@@ -1,0 +1,518 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 70079158000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "name": "To search any prodect",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-search-any-prodect",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 86892785600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Launch valid url",
+            "match": {
+              "location": "sample.launch_valid_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 548977500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To pass validate email",
+            "match": {
+              "location": "sample.to_pass_validate_email()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 66295138900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Clous browser",
+            "match": {
+              "location": "sample.clous_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 93638546000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "To validate the positive  and negative comination of login functon",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-validate-the-positive--and-negative-comination-of-login-functon;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 79298186700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To launch gmail url",
+            "match": {
+              "location": "sample.to_launch_gmail_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 16375884000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To pass the data\"\u003cemaildata\u003e\" email  feld",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cemaildata\u003e\"",
+                  "offset": 16
+                }
+              ],
+              "location": "sample.to_pass_the_data_email_feld(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21606905200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close edgebrowser",
+            "match": {
+              "location": "sample.to_close_edgebrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 29610808600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "To validate the positive  and negative comination of login functon",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-validate-the-positive--and-negative-comination-of-login-functon;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 37844837900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To launch gmail url",
+            "match": {
+              "location": "sample.to_launch_gmail_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3235660500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To pass the data\"\u003cemaildata\u003e\" email  feld",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cemaildata\u003e\"",
+                  "offset": 16
+                }
+              ],
+              "location": "sample.to_pass_the_data_email_feld(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17163823100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close edgebrowser",
+            "match": {
+              "location": "sample.to_close_edgebrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 14880190100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "To validate the positive  and negative comination of login functon",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-validate-the-positive--and-negative-comination-of-login-functon;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15948152700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To launch gmail url",
+            "match": {
+              "location": "sample.to_launch_gmail_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1042769700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To pass the data\"\u003cemaildata\u003e\" email  feld",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cemaildata\u003e\"",
+                  "offset": 16
+                }
+              ],
+              "location": "sample.to_pass_the_data_email_feld(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12963220600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close edgebrowser",
+            "match": {
+              "location": "sample.to_close_edgebrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 7274900800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "To validate the positive  and negative comination of login functon",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-validate-the-positive--and-negative-comination-of-login-functon;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14281838700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To launch gmail url",
+            "match": {
+              "location": "sample.to_launch_gmail_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1117937100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To pass the data\"\u003cemaildata\u003e\" email  feld",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cemaildata\u003e\"",
+                  "offset": 16
+                }
+              ],
+              "location": "sample.to_pass_the_data_email_feld(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1249946100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close edgebrowser",
+            "match": {
+              "location": "sample.to_close_edgebrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 10059222200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "To validate the positive  and negative comination of login functon",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-validate-the-positive--and-negative-comination-of-login-functon;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10202228400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To launch gmail url",
+            "match": {
+              "location": "sample.to_launch_gmail_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 470059000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To pass the data\"\u003cemaildata\u003e\" email  feld",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cemaildata\u003e\"",
+                  "offset": 16
+                }
+              ],
+              "location": "sample.to_pass_the_data_email_feld(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1073027500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close edgebrowser",
+            "match": {
+              "location": "sample.to_close_edgebrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6855383500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch edgeBrowser",
+            "match": {
+              "location": "sample.launch_edgeBrowser()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "To validate the positive  and negative comination of login functon",
+        "description": "",
+        "id": "to-search-any-prodect-flipkart--application;to-validate-the-positive--and-negative-comination-of-login-functon;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12085846500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To launch gmail url",
+            "match": {
+              "location": "sample.to_launch_gmail_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1179124600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To pass the data\"\u003cemaildata\u003e\" email  feld",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\u003cemaildata\u003e\"",
+                  "offset": 16
+                }
+              ],
+              "location": "sample.to_pass_the_data_email_feld(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 758050500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To close edgebrowser",
+            "match": {
+              "location": "sample.to_close_edgebrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To search any prodect flipkart  application",
+    "description": "",
+    "id": "to-search-any-prodect-flipkart--application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/cucumber.feature",
+    "tags": []
+  }
+]

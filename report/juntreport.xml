@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="125.735492">
+    <testcase classname="To search any prodect flipkart  application" name="To search any prodect" time="26.892101">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When Launch valid url.......................................................passed
+And To pass validate email..................................................passed
+Then Clous browser..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To search any prodect flipkart  application" name="To validate the positive  and negative comination of login functon" time="18.818468">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When To launch gmail url....................................................passed
+And To pass the data"<emaildata>" email  feld...............................passed
+Then To close edgebrowser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To search any prodect flipkart  application" name="To validate the positive  and negative comination of login functon 2" time="15.232347">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When To launch gmail url....................................................passed
+And To pass the data"<emaildata>" email  feld...............................passed
+Then To close edgebrowser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To search any prodect flipkart  application" name="To validate the positive  and negative comination of login functon 3" time="14.050488">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When To launch gmail url....................................................passed
+And To pass the data"<emaildata>" email  feld...............................passed
+Then To close edgebrowser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To search any prodect flipkart  application" name="To validate the positive  and negative comination of login functon 4" time="14.045648">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When To launch gmail url....................................................passed
+And To pass the data"<emaildata>" email  feld...............................passed
+Then To close edgebrowser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To search any prodect flipkart  application" name="To validate the positive  and negative comination of login functon 5" time="14.7231">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When To launch gmail url....................................................passed
+And To pass the data"<emaildata>" email  feld...............................passed
+Then To close edgebrowser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To search any prodect flipkart  application" name="To validate the positive  and negative comination of login functon 6" time="21.97334">
+        <system-out><![CDATA[Given Launch edgeBrowser....................................................passed
+When To launch gmail url....................................................passed
+And To pass the data"<emaildata>" email  feld...............................passed
+Then To close edgebrowser...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
